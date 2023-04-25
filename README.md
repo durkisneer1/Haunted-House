@@ -1,2 +1,4 @@
-# Haunted-House
+# Haunted House
+
+Psychological Text-Based Horror Game
  
